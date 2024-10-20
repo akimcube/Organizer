@@ -196,7 +196,8 @@ def arr_save():
         if a.count(' ') == 1:
             a.remove(' ')
         a=''.join(a)
-       
+        
+        #write saved time
         file.write( 'a' + a + ' '+ arrAM[r] + '\n' )
         if noteExist('a', noteTime):
             for subS in note['a'][noteTime]:
@@ -209,6 +210,7 @@ def arr_save():
             a.remove(' ')
         a=''.join(a)
        
+        #write saved time
         file.write( 'p' + a + ' ' + arrPM[r] + '\n')
         if noteExist('p', noteTime):
             for subS in note['p'][noteTime]:
@@ -612,7 +614,7 @@ def timeShift(x):
     #Calculate edits with 4 different arrangements of A and P,
     #with order determined through adding or subtracting time
     
-    #Two for loops are used when times are between tZones
+    #Two For loops are used when times are between tZones
     #+1 and -1 for loop requirements
     try:
         #time Shift
