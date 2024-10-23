@@ -2,10 +2,12 @@
 - Originally named "Organizer" hence the file names
 - Use for Congressional App Competition
 
-**Purpose and Functions**
+**Purpose**
 - Quickly creates an efficient and effective daily schedule
 - More flexible and personal through short commands
-- Commands (note that brackets are to indicate a user input)
+
+**Commands**
+- (note that brackets are to indicate a user input)
   1) none
      - Create an event at a specified time
      - Input format: [first letter of am/pm][time] [title of event]
@@ -71,14 +73,14 @@
       n
       --> Basically press again to save and exit a list
 
-7) r
+8) r
    - Reset the schedule to its initally saved information
    - Input format: r
    - Example:
     r
      --> If you made any edits, those edits are lost and you can "restart" again
 
-8) s
+9) s
    - Saves the schedule (onto the file "Organizer_save") and displays the formatted schedule on the file "Organizer_display"
    - Input format: s
    - Example:
