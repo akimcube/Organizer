@@ -73,19 +73,19 @@
        n
        --> Basically press again to save and exit a list
 
-8) r
-   - Reset the schedule to its initally saved information
-   - Input format: r
-   - Example:
-    r
-     --> If you made any edits, those edits are lost and you can "restart" again
-
-9) s
-   - Saves the schedule (onto the file "Organizer_save") and displays the formatted schedule on the file "Organizer_display"
-   - Input format: s
-   - Example:
-     s
-     --> When you are done with the schedule, input s 
+  8) r
+     - Reset the schedule to its initally saved information
+     - Input format: r
+     - Example:
+      r
+       --> If you made any edits, those edits are lost and you can "restart" again
+  
+  9) s
+     - Saves the schedule (onto the file "Organizer_save") and displays the formatted schedule on the file "Organizer_display"
+     - Input format: s
+     - Example:
+       s
+       --> When you are done with the schedule, input s 
 
        
      
