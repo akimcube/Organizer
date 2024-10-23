@@ -67,11 +67,11 @@
        d 2
        --> Deletes the second note
 
-    To save the list of notes:
-    - Input format: n
-    - Example:
-      n
-      --> Basically press again to save and exit a list
+     To save the list of notes:
+     - Input format: n
+     - Example:
+       n
+       --> Basically press again to save and exit a list
 
 8) r
    - Reset the schedule to its initally saved information
