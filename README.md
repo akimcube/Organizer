@@ -40,7 +40,7 @@
      - Example:
        e a1100 p300 45
        --> Increments all events' times between 11:00AM to 3:00PM (Including 11:00AM and 3:00PM) by 45 minutes
-       Result: 11:45AM, time2+45, time3+45, ..., 3:45PM
+       - Result: 11:45AM, time2+45, time3+45, ..., 3:45PM
 
   7) n
      - Creates a list of notes under an event
