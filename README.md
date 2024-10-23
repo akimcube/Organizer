@@ -53,7 +53,7 @@
        - Example:
          - Shopping list
          --> Adds the note "Shopping list"
-      - Notes are numbered, indicated its index
+      - Notes are numbered, indicated by its index
 
       To edit a note:
       - Input format: [index] [replacement information]
